@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+id btnDelete
+id btnImport
+id btnShape
+id btnSplit
+id btnText
+id timeline
+id videoView
+layout activity_main
